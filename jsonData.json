@@ -1,0 +1,28 @@
+{"date_population": [
+{
+"date": "1941",
+"population": 10000
+},{
+    "date": "1921",
+    "population": 20000
+},{
+    "date": "1931",
+    "population": 30000
+},{
+    "date": "1941",
+    "population": 40000
+},{
+    "date": "1971",
+    "population": 50000
+},{
+    "date": "1981",
+    "population": 60000
+},{
+    "date": "1947",
+    "population": 70000
+},{
+    "date": "1949",
+    "population": 80000
+}
+]
+}
